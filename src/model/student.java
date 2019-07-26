@@ -21,14 +21,14 @@ public class student {
     public int getAge() {
         return age;
     }
-    public void setAge(int Age) {
-        this.number = age;
+    public void setAge(int age) {
+        this.age = age;
     }
 
             public int getNumber() {
                 return number;
             }
-            public void setNumber(int Number) {
+            public void setNumber(int number) {
                 this.number = number;
             }
 

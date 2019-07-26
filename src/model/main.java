@@ -6,7 +6,7 @@ public class main {
             student.setName("duanyrian");
             student.setAge(23);
             student.setNumber(2017);
-            //为什么运行结果两个整型都是0 QAQ
+            //大小写还能弄错是不是傻
             student.setGender("女");
             System.out.println(student.getName());
             System.out.println(student.getAge());
